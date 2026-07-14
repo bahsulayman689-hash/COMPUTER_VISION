@@ -1,0 +1,9 @@
+{
+  "password_hash": "scrypt:32768:8:1$X6wsxiAEK25Q1WIt$68c52e0b0dbb405a749b1a791370a1d3755fcf80cf7674db17426763b77d2e7fdbac92ae409cecefb93b0d1c5ca7d9131748885dd7a9dd8f665ac700d17fef7e",
+  "profile_name": "Sulayman Bah",
+  "profile_area": "Banjul, The Gambia",
+  "screenshot_delay": 5,
+  "alarm_delay": 1,
+  "confidence": 0.5,
+  "alarm_enabled": true
+}
